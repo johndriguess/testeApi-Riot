@@ -1,4 +1,4 @@
-const keyAPI = "RGAPI-41e23f71-c21f-4c25-a595-9a634991fe37"
+const keyAPI = "RGAPI-36e45ff6-f2f8-4e79-a1cd-4c70c11e74ac"
 
 const nome = document.querySelector(".nome");
 const form = document.querySelector(".form");
