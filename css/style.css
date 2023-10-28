@@ -34,8 +34,9 @@ main{
 }
 
 .nome {
+    font-size: 25px;
     background-color: #fff;
-    width: 46%;
+    width: 46vh;
     min-width: 46%;
     border-radius: 5px;
     padding: 1px;
